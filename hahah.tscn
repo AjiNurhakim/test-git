@@ -1,0 +1,19 @@
+[gd_scene format=3 uid="uid://cogcjy2f4xeac"]
+
+[node name="Hahah" type="Control" unique_id=2020679766]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Control" type="Control" parent="." unique_id=299328642]
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="MenuBar" type="MenuBar" parent="Control" unique_id=789572721]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0

@@ -18,7 +18,14 @@ layout_mode = 0
 offset_right = 40.0
 offset_bottom = 40.0
 
+<<<<<<< HEAD
 [node name="Button" type="Button" parent="Control/MenuBar" unique_id=1195048973]
 layout_mode = 0
 offset_right = 8.0
 offset_bottom = 8.0
+=======
+[node name="MenuBar" type="MenuBar" parent="Control/MenuBar" unique_id=422540882]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+>>>>>>> 0bb53b757d7bedbada0a0091f063d957df023660
